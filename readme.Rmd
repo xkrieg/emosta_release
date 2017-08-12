@@ -1,10 +1,10 @@
 ![](_images/emosta_logo.jpg)
-# EmoReader
+#                   EmoReader  
 
 The Emosta EmoReader is a deep learning algorithm trained to read a photographed image of a human face and return the probability percentages of that face displaying each of Ekman’s (1972: 1973) seven emotional expressions: anger, contempt, disgust, fear, happiness, sadness, and surprise. (Neutral expressions are also coded.)  
 
 Our software is designed to assist counselors, coaches, and HR professionals gain *deeper insight* and *direct feedback* from the interactions they have with their coworkers. The EmoReader supports multiple cameras and multiple faces, making it one of the only software options for capturing emotion in group settings. Please be sure to check out the User Guide and Interpretation Manual for more information.  
 
-In this repository, please find the release versions for the EmoReader. The most recent version can be found here: LINK.  
+In this repository, please find the release versions for the EmoReader. The most recent version can be found here: **LINK**.  
 
 For questions, comments, or additional support, please visit us at www.emosta.com
