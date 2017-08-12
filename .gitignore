@@ -3,6 +3,7 @@
 .Rhistory
 .RData
 .Ruserdata
+emosta_release.Rproj
 
 #System Files
 *.DS_Store
@@ -10,3 +11,4 @@
 #Folders
 alpha
 beta
+cheatsheet/_drafts
