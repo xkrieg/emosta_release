@@ -1,4 +1,12 @@
+#R files
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
+#System Files
+*.DS_Store
+
+#Folders
+alpha
+beta

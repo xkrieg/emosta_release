@@ -1,30 +1,9 @@
----
-title: "Readme"
-author: "xkrieg"
-date: "August 12, 2017"
-output: html_document
----
+## Emosta EmoReader
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+The Emosta EmoReader is a deep learning algorithm trained to read a photographed image of a human face and return the probability percentages of that face displaying each of Ekman’s (1972: 1973) seven emotional expressions: anger, contempt, disgust, fear, happiness, sadness, and surprise. (Neutral expressions are also coded.)  
 
-## R Markdown
+Our software is designed to assist counselors, coaches, and HR professionals gain *deeper insight* and *direct feedback* from the interactions they have with their coworkers. The EmoReader supports multiple cameras and multiple faces, making it one of the only software options for capturing emotion in group settings. Please be sure to check out the User Guide and Interpretation Manual for more information.  
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+In this repository, please find the release versions for the EmoReader. The most recent version can be found here: LINK.  
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+For questions, comments, or additional support, please contact us at sogawa@emosta.com
